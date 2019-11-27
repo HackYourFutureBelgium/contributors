@@ -1,6 +1,6 @@
 # Thank You All!
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 Hack Your Future would not exist without all of the volunteer contributions, big and little.  To make sure everyone gets the recognition they deserve we invite you to add anyone to this repository who you think deserves a little round of applause.
 
@@ -24,6 +24,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/MichielLeyman"><img src="https://avatars0.githubusercontent.com/u/15386836?v=4" width="100px;" alt="Michiel Leyman"/><br /><sub><b>Michiel Leyman</b></sub></a><br /><a href="#question-MichielLeyman" title="Answering Questions">💬</a> <a href="#userTesting-MichielLeyman" title="User Testing">📓</a></td>
+    <td align="center"><a href="https://github.com/Maycldts"><img src="https://avatars3.githubusercontent.com/u/46709840?v=4" width="100px;" alt="Maycldts"/><br /><sub><b>Maycldts</b></sub></a><br /><a href="#ideas-Maycldts" title="Ideas, Planning, & Feedback">🤔</a> <a href="#business-Maycldts" title="Business development">💼</a></td>
   </tr>
 </table>
 
