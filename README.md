@@ -9,7 +9,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/MichielLeyman"><img src="https://avatars0.githubusercontent.com/u/15386836?v=4" width="100px;" alt="Michiel Leyman"/><br /><sub><b>Michiel Leyman</b></sub></a><br /><a href="#question-MichielLeyman" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/MichielLeyman"><img src="https://avatars0.githubusercontent.com/u/15386836?v=4" width="100px;" alt="Michiel Leyman"/><br /><sub><b>Michiel Leyman</b></sub></a><br /><a href="#question-MichielLeyman" title="Answering Questions">💬</a> <a href="#userTesting-MichielLeyman" title="User Testing">📓</a></td>
   </tr>
 </table>
 
