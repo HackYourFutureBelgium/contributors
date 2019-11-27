@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MichielLeyman",
+      "name": "Michiel Leyman",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15386836?v=4",
+      "profile": "https://github.com/MichielLeyman",
+      "contributions": [
+        "question"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "contributors",
+  "projectOwner": "HackYourFutureBelgium",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
