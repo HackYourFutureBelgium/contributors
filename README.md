@@ -4,16 +4,26 @@
 
 Hack Your Future would not exist without all of the volunteer contributions, big and little.  To make sure everyone gets the recognition they deserve we invite you to add anyone to this repository who you think deserves a little round of applause.
 
+Contributions can be anything, even work that doesn't appear on GitHub.  Is the a coach that went above and beyond to support you over the week?  Is there a student that makes the extra effort to support their peers?  And how about everyone that works behind the scenes to make sure we have class rooms, speakers, and snacks between class? All of these are contributions that deserve to be recognized!
+
+The only catch is that whoever you'd like to recognize needs to have a GitHub account. But don't let that stop you!  Just let them know they should create an account so they
+
 ### Recognizing Contributors
-* [Contribution Categories]()
-* [Adding a new Contributor]()
-* [Recognizing an Existing Contributor]()
+
+Do you know someone who deserves to be recognized?  Just let the All-Contributors bot know! A new pull request will be automatically created, adding their profile to this README.
+
+Maybe you'd like to recognize an existing contributor for new contributions?  Search through the issues to find the the one with their name and add a new comment for the bot.  A pull request will be created adding a new badge to their thumbnail.  You'll find instructions for how to do this in the description of their issue.
+
+Or maybe you'd like to recognize someone for the first time! Click on the issues tab of this repository and create a new issue using the `New Contributor` Template Issue, the template will contain more detailed instructions on how to do this.   Don't be shy, no contribution is too small to recognize!
+
+
 
 ### Becoming a Contributor
-* ([What is Open Source Contribution?]())
-* [Code of Conduct]()
-* [Contribution Guidelines]()
-* [Getting Started]()
+* ([What's this about?]())
+* [Code of Conduct](./code-of-conduct.md)
+* [Contribution Guidelines](./guidelines.md)
+* [Getting Started](./getting-started.md)
+
 
 ## Contributors ✨
 
