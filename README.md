@@ -35,14 +35,18 @@ Don't be shy, no contribution is too small to recognize!
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://github.com/MichielLeyman"><img src="https://avatars0.githubusercontent.com/u/15386836?v=4" width="100px;" alt="Michiel Leyman"/><br /><sub><b>Michiel Leyman</b></sub></a><br /><a href="#question-MichielLeyman" title="Answering Questions">💬</a> <a href="#userTesting-MichielLeyman" title="User Testing">📓</a></td>
     <td align="center"><a href="https://github.com/Maycldts"><img src="https://avatars3.githubusercontent.com/u/46709840?v=4" width="100px;" alt="Maycldts"/><br /><sub><b>Maycldts</b></sub></a><br /><a href="#ideas-Maycldts" title="Ideas, Planning, & Feedback">🤔</a> <a href="#business-Maycldts" title="Business development">💼</a></td>
+    <td align="center"><a href="https://github.com/u-uysal"><img src="https://avatars1.githubusercontent.com/u/54946794?v=4" width="100px;" alt="u-uysal"/><br /><sub><b>u-uysal</b></sub></a><br /><a href="#question-u-uysal" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
