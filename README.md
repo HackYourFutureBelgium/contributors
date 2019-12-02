@@ -55,6 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Maycldts"><img src="https://avatars3.githubusercontent.com/u/46709840?v=4" width="100px;" alt="Maycldts"/><br /><sub><b>Maycldts</b></sub></a><br /><a href="#ideas-Maycldts" title="Ideas, Planning, & Feedback">🤔</a> <a href="#business-Maycldts" title="Business development">💼</a></td>
     <td align="center"><a href="https://github.com/u-uysal"><img src="https://avatars1.githubusercontent.com/u/54946794?v=4" width="100px;" alt="u-uysal"/><br /><sub><b>u-uysal</b></sub></a><br /><a href="#question-u-uysal" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/ikoral"><img src="https://avatars3.githubusercontent.com/u/40534340?v=4" width="100px;" alt="ilhan koral"/><br /><sub><b>ilhan koral</b></sub></a><br /><a href="#question-ikoral" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://hackyourfuture.be/"><img src="https://avatars3.githubusercontent.com/u/18554853?v=4" width="100px;" alt="Evan Cole"/><br /><sub><b>Evan Cole</b></sub></a><br /><a href="#ideas-colevandersWands" title="Ideas, Planning, & Feedback">🤔</a> <a href="#example-colevandersWands" title="Examples">💡</a> <a href="https://github.com/HackYourFutureBelgium/contributors/commits?author=colevandersWands" title="Documentation">📖</a></td>
   </tr>
 </table>
 
