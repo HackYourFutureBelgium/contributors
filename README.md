@@ -37,7 +37,7 @@ Don't be shy, no contribution is too small to recognize!
 
 ### Becoming a Contributor
 * ([What is Open Source Contribution?](https://github.com/freeCodeCamp/how-to-contribute-to-open-source))
-* [Code of Conduct](./code-of-conduct.md)
+* [Core Values & Code of Conduct](https://github.com/hackyourfuturebelgium/core-values) (external)
 * [Contribution Guidelines](./guidelines.md)
 * [Getting Started](./getting-started.md)
 
